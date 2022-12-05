@@ -12,3 +12,6 @@ Average temperature of different cities in one day
 ```
 python3 -m pip install pywttr
 ```
+
+### License
+[MIT](https://github.com/monosans/aiopywttr/blob/main/LICENSE)
